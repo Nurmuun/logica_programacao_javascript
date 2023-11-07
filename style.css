@@ -64,6 +64,14 @@ body::before {
     margin-top: 2rem;
 }
 
+.container__botao:hover {
+    background: #064592;
+}
+
+.container__botao:active {
+    border: 1px solid rgb(186, 13, 209);
+}
+
 .container__texto {
     margin: 16px 0 16px 0;
 }
