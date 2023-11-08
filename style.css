@@ -123,6 +123,7 @@ button:disabled {
 #reiniciar:hover:disabled {
     background: gray;
     border: none;
+}
 
 @media screen and (max-width: 1250px) {
 
